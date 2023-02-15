@@ -12,6 +12,7 @@ const testData = [
   { id: 6, name: "Cookies", category: "Dessert" },
 ];
 
+
 // Filter
 const noop = () => {};
 test("uses a prop of 'search' to display the search term in the input field", () => {
